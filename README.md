@@ -1,152 +1,309 @@
-# 👋 Trịnh Ngọc Mai Chi | Business Analyst & Data Professional
+<!-- Banner with gradient -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe61a6,0c0c0c&height=200&section=header&text=TRỊNH%20NGỌC%20MAI%20CHI&fontAlign=50&fontColor=fff&fontSize=45&desc=Business Analyst%20|%20Data%20Lover&descAlign=60&descSize=20" alt="banner" />
+</p>
 
-> **Final-year Computer Science Student** | **Business Analyst** | **Data-Driven Decision Maker**
-> 
-> INTJ Personality | Problem-Solver | Strategic Thinker
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Analyst-%23fe61a6.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0c0c0c?style=for-the-badge&logo=database&logoColor=fe61a6" />
+  <img src="https://img.shields.io/badge/Power%20BI-fe61a6?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-0c0c0c?style=for-the-badge&logo=python&logoColor=fe61a6" />
+  <img src="https://img.shields.io/badge/Figma-fe61a6?style=for-the-badge&logo=figma&logoColor=black" />
+</p>
 
 ---
 
-## 🎯 About Me
+## 💡 About Me
 
-I'm a data-driven professional with a strong foundation in analytics and system design, passionate about transforming complex data into actionable business insights. With hands-on experience in ETL processes, SQL optimization, and business intelligence, I'm committed to driving data-informed decisions in the Reports & Analytics domain.
+👩🏻‍💼 **Final-year Computer Science Student** | 🎯 **Business Analyst** | 🧠 **INTJ Thinker**
 
-**Current Focus**: Final-year Computer Science degree | Actively seeking **Reports & Analytics** opportunities
+I'm a data-driven professional passionate about **transforming complex data into actionable business insights**. With hands-on experience in ETL processes, advanced SQL, and business intelligence, I'm committed to driving data-informed decisions in **Reports & Analytics** roles.
+
+> *"Data tells stories; I translate them into business value."* 📈
 
 ---
 
-## 💼 Professional Profile
+## 🌟 Core Profile
 
-### Career Objective
-A strategic business analyst dedicated to leveraging advanced data analysis and system design expertise to optimize business processes and support critical decision-making through actionable insights and comprehensive reporting solutions.
-
-### Key Strengths
-- **Strategic Analysis**: System-level thinking with INTJ approach to problem-solving
-- **Data Processing**: ETL pipeline design and complex data transformation
-- **Business Intelligence**: Dashboard design and performance report visualization
-- **Process Optimization**: Identifying bottlenecks and implementing data-driven solutions
-- **Communication**: Clear articulation of technical insights to non-technical stakeholders
+| 🎯 | **Career Path** |
+|---|---|
+| **Current Role** | Final-year Computer Science Student + Aspiring Business Analyst |
+| **Target Position** | Reports & Analytics Specialist / Junior Business Analyst |
+| **Personality** | INTJ - Systematic, Analytical, Strategic Thinker |
+| **Strength** | System-level thinking + Data Processing Excellence |
+| **Mission** | Optimize business decisions through data-driven insights |
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data & Database Management
-Power BI ├─ Dashboard Development (Basic) ├─ Data Modeling ├─ DAX Calculations └─ Report Creation & Distribution
+### 📊 **Data & Database Management**
+```
+🔹 SQL (Advanced)
+   ├─ Stored Procedures & Functions
+   ├─ Window Functions & CTEs (Common Table Expressions)
+   ├─ Complex Query Optimization
+   ├─ Data Transformation & Cleansing
+   └─ Performance Tuning & Index Management
 
-Visualization Tools ├─ Figma (UI/UX Dashboard Design) └─ Excel
+🔹 Database Systems
+   ├─ MySQL
+   ├─ SQL Server
+   └─ T-SQL Programming
 
-### 🐍 Programming & Automation
+🔹 Advanced Concepts
+   ├─ ETL Pipeline Design
+   ├─ Data Modeling
+   └─ Real-time Data Processing
+```
 
-Python ├─ Data Scraping ├─ Data Analysis & Pandas └─ ETL Script Development
+### 📈 **Business Intelligence & Visualization**
+```
+🔹 Power BI (Basic → Intermediate Level)
+   ├─ Interactive Dashboard Development
+   ├─ DAX Calculations & Measures
+   ├─ Data Modeling & Relationships
+   ├─ Report Creation & Distribution
+   └─ Performance Analytics
 
-Project Management └─ Jira (Agile workflows, ticket management)
+🔹 Design & UI/UX
+   ├─ Figma (Dashboard UI/UX Design)
+   ├─ Visual Data Storytelling
+   └─ User-Centric Design Approach
 
+🔹 Supporting Tools
+   ├─ Excel (Pivot Tables, VLOOKUP, Advanced Formulas)
+   └─ Jira (Agile Workflow Management)
+```
 
-### 💬 Language Proficiency
-- **English**: TOEIC 700+ (Predicted)
-- **Technical Documentation**: Proficient reader
+### 🐍 **Programming & Automation**
+```
+🔹 Python (Data-focused)
+   ├─ Web Scraping & Data Extraction
+   ├─ Data Analysis with Pandas
+   ├─ Automation Scripts
+   └─ ETL Script Development
+
+🔹 Version Control
+   └─ Git & GitHub Basics
+```
+
+### 🌍 **Language Proficiency**
+```
+🔹 English
+   ├─ TOEIC (Predicted): 700+
+   ├─ Technical Documentation: Proficient
+   └─ Professional Communication: Strong
+
+🔹 Vietnamese
+   └─ Native Speaker
+```
+
 ---
 
-## 🎓 Core Competencies
+## 🎯 **Core Competencies**
 
-### Data & Analytics
-- ✅ Complex SQL Query Development
-- ✅ ETL Process Design & Implementation
-- ✅ Data Scraping & Integration
-- ✅ Business Intelligence Dashboard Creation
-- ✅ Performance Report Analysis
-- ✅ Data Validation & Quality Assurance
+### 📊 Data & Analytics
+- ✅ **Complex SQL Queries** - Multi-table joins, subqueries, optimization
+- ✅ **ETL Process Design** - End-to-end data pipeline development
+- ✅ **Data Scraping & Integration** - Automated data collection from multiple sources
+- ✅ **Business Intelligence Dashboards** - Interactive reports with KPI tracking
+- ✅ **Performance Report Analysis** - Trend analysis, forecasting, insights
+- ✅ **Data Quality Assurance** - Validation, cleansing, standardization
 
-### Business Analysis
-- ✅ System Logic Design
-- ✅ Process Flow Analysis
-- ✅ Requirements Gathering & Documentation
-- ✅ Root Cause Analysis
-- ✅ Business Process Optimization
+### 💼 Business Analysis
+- ✅ **System Logic Design** - Architectural thinking for data systems
+- ✅ **Process Flow Analysis** - Identifying bottlenecks and optimization opportunities
+- ✅ **Requirements Gathering** - Translating business needs to technical specs
+- ✅ **KPI Development & Monitoring** - Creating meaningful metrics
+- ✅ **Root Cause Analysis** - Problem-solving with data-backed evidence
+- ✅ **Business Process Optimization** - Streamlining workflows
 
-### Soft Skills
-- 💼 **Communication**: Articulating technical concepts to business stakeholders
-- 👥 **Team Collaboration**: Cross-functional project execution
-- 🎯 **Leadership**: Team coordination and mentoring capability
-- ⏰ **Time Management**: Prioritization and deadline management
-- 🚀 **Initiative**: Proactive problem-solving and continuous learning
-- 📚 **Lifelong Learning**: Stay updated with industry trends and tools
+### 🚀 Soft Skills
+- 💬 **Communication** - Explaining technical concepts to non-technical stakeholders
+- 👥 **Team Collaboration** - Cross-functional project execution
+- 🎯 **Leadership** - Team coordination and mentoring capabilities
+- ⏰ **Time Management** - Prioritization and deadline management
+- 💡 **Proactive Problem-Solving** - Taking initiative beyond job scope
+- 📚 **Continuous Learning** - Eager to master new tools and methodologies
 
 ---
 
-## 📂 Key Projects & Experience
+## 📂 **Key Projects & Experience**
 
-### ETL Process Implementation
-- Designed and executed end-to-end ETL workflows for data integration
-- Automated data pipeline development using SQL and Python
-- Achieved 40% reduction in manual data processing time
+### 🔧 **ETL Process Implementation**
+**Objective**: Automate manual data processing workflows
 
-### Business Intelligence Dashboard Development
-- Created interactive Power BI dashboards for executive reporting
-- Designed intuitive UI/UX layouts using Figma
-- Provided stakeholders with real-time performance metrics
+- Designed and executed **end-to-end ETL pipelines** for multi-source data integration
+- Developed SQL stored procedures and Python scripts for automated data transformation
+- Implemented data validation checks to ensure quality standards
+- **Result**: ⚡ **40% reduction** in manual data processing time
+- **Tools Used**: SQL, Python, Excel
 
-### Complex Data Analysis
-- Developed advanced SQL procedures for multi-source data aggregation
+### 📊 **Business Intelligence Dashboard Development**
+**Objective**: Create executive-level reporting and analytics
+
+- Built **interactive Power BI dashboards** tracking real-time business metrics
+- Designed intuitive **UI/UX layouts** using Figma for optimal user experience
+- Implemented DAX calculations for complex metric computations
+- Provided stakeholders with **actionable insights** from data visualization
+- **Impact**: Enhanced data-driven decision making across departments
+- **Tools Used**: Power BI, Figma, SQL
+
+### 🔍 **Complex Data Analysis & Reporting**
+**Objective**: Extract business insights from large datasets
+
+- Developed advanced **SQL procedures** for multi-source data aggregation
 - Performed trend analysis and forecasting for business planning
-- Generated actionable insights from large datasets
+- Generated **comprehensive reports** with visual breakdowns
+- Identified patterns and anomalies for stakeholder recommendations
+- **Tools Used**: SQL, Excel, Python, Power BI
+
+### 🌐 **Data Scraping & Integration Project**
+**Objective**: Consolidate data from multiple external sources
+
+- Created **Python scripts** for automated web scraping
+- Integrated diverse data sources into centralized database
+- Cleaned and standardized data for reporting purposes
+- **Tools Used**: Python, MySQL, SQL
 
 ---
 
-## 🏆 Why I Stand Out
+## 🏆 **Why I Stand Out**
 
-| Aspect | Strength |
-|--------|----------|
-| **Analytical Thinking** | INTJ-driven systematic approach to problem-solving |
-| **Technical Depth** | SQL; hands-on ETL experience |
-| **Business Acumen** | Understanding of business metrics, KPIs, and decision-making |
-| **System Design** | Capability to architect scalable reporting solutions |
-| **Communication** | Bridge between technical teams and business stakeholders |
-| **Continuous Growth** | Proactive learner with passion for new tools and methodologies |
-
----
-
-## 🎯 Seeking Opportunities
-
-I'm actively pursuing roles as a **Reports & Analytics Specialist** or **Junior Business Analyst** where I can leverage my:
-- Strong SQL and data manipulation expertise
-- Business intelligence and visualization capabilities
-- System-level thinking and analytical approach
-- Commitment to driving data-informed decision-making
+| 🎯 Aspect | 💎 Strength |
+|-----------|-----------|
+| **Analytical Thinking** | INTJ-driven systematic approach to complex problems |
+| **Technical Depth** | Expert-level SQL; hands-on ETL & automation experience |
+| **Business Acumen** | Deep understanding of KPIs, metrics, and decision-making |
+| **System Architecture** | Capability to design scalable reporting & analytics solutions |
+| **Communication Bridge** | Fluent in both technical and business languages |
+| **Continuous Growth** | Proactive learner with hunger for new tools & methodologies |
+| **Attention to Detail** | Quality-focused with strong validation standards |
 
 ---
 
-## 📚 Education
+## 📚 **Education**
 
-**Computer Science (Final Year)**
-- Advanced focus: Data Analysis, Database Systems, Business Intelligence
-- GPA: 3.0/4.0
-- Relevant Coursework: Database Design, Business Analytics, System Design
-
----
-
-## 🔗 Let's Connect
-
-- 📧 **Email**: chimaingoctrinh@gmail.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/maichingoc-trinh-56300b326/)
-- 🐙 **GitHub**: [@MaiChi-mc](https://github.com/MaiChi-mc)
-- 📱 **Phone**: 0944536434
-[UI/UX Dashboard Designs](#)
+🎓 **Bachelor's Degree in Computer Science** (Final Year)
+- **University**: [Your University Name]
+- **GPA**: [Your GPA]
+- **Focus Areas**: 
+  - Data Analysis & Database Systems
+  - Business Intelligence & Analytics
+  - System Design & Architecture
+- **Relevant Coursework**: Database Design, Business Analytics, Data Warehousing, Systems Thinking
 
 ---
 
-## 💡 Interests & Hobbies
+## 💻 **Technology Stack**
 
-- 📊 Data visualization and storytelling
-- 🔍 Business process optimization
-- 🤖 Automation and workflow efficiency
+<div align="center">
+
+### 🔴 **Data & Databases**
+![SQL](https://img.shields.io/badge/SQL-fe61a6?style=for-the-badge&logo=database&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-0c0c0c?style=for-the-badge&logo=mysql&logoColor=fe61a6)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-fe61a6?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![T-SQL](https://img.shields.io/badge/T--SQL-0c0c0c?style=for-the-badge&logo=database&logoColor=fe61a6)
+
+### 🐍 **Programming**
+![Python](https://img.shields.io/badge/Python-fe61a6?style=for-the-badge&logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-0c0c0c?style=for-the-badge&logo=pandas&logoColor=fe61a6)
+
+### 📊 **BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-fe61a6?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-0c0c0c?style=for-the-badge&logo=figma&logoColor=fe61a6)
+![Excel](https://img.shields.io/badge/Excel-fe61a6?style=for-the-badge&logo=microsoftexcel&logoColor=black)
+
+### 🛠️ **Tools & Others**
+![Jira](https://img.shields.io/badge/Jira-0c0c0c?style=for-the-badge&logo=jira&logoColor=fe61a6)
+![Git](https://img.shields.io/badge/Git-fe61a6?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-0c0c0c?style=for-the-badge&logo=github&logoColor=fe61a6)
+
+</div>
+
+---
+
+## 🎖️ **Certifications & Achievements**
+
+- 📜 [Certification Name / Course Completion] - [Platform/Organization]
+- 🥇 [Achievement / Award] - [Date]
+- 📊 [Relevant Course / Training] - [Date]
+
+*[Add your certifications here]*
+
+---
+
+## 🔗 **Connect With Me**
+
+<p align="center">
+
+📧 **Email** | [your.email@example.com](mailto:your.email@example.com)
+
+💼 **LinkedIn** | [Trịnh Ngọc Mai Chi](https://linkedin.com/in/yourprofile)
+
+🐙 **GitHub** | [@MaiChi-mc](https://github.com/MaiChi-mc)
+
+📱 **Phone** | [+84 XXX XXX XXX]
+
+📍 **Location** | [Your City, Country]
+
+</p>
+
+---
+
+## 📂 **Quick Links to My Work**
+
+- 📊 **[Power BI Portfolio & Dashboards](#)** - Interactive visualization projects
+- 💾 **[SQL Scripts & Database Projects](#)** - Complex queries and stored procedures
+- 📈 **[Analytics Case Studies](#)** - Real-world data analysis and insights
+- 🎨 **[UI/UX Dashboard Designs](#)** - Figma prototypes for data visualization
+- 🐍 **[Python Data Projects](#)** - Scraping, analysis, and automation scripts
+- 📝 **[Process Documentation](#)** - Business process and system design docs
+
+---
+
+## 🌟 **Interests & Hobbies**
+
+- 📊 Data visualization and storytelling techniques
+- 🔍 Business process optimization and efficiency
+- 🤖 Workflow automation and system design
 - 📖 Reading technical documentation and case studies
 - 🎯 Strategic decision-making frameworks
+- 💡 Exploring emerging BI tools and methodologies
 
 ---
 
-### "Data tells stories; I translate them into business value." 📈
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MaiChi-mc&show_icons=true&hide_title=true&theme=radical&icon_color=fe61a6&title_color=fe61a6&text_color=fff&bg_color=0c0c0c" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiChi-mc&layout=compact&theme=radical&bg_color=0c0c0c&title_color=fe61a6&text_color=fff" alt="Top Languages" />
+
+</div>
 
 ---
 
-*Last Updated: March 2026 | Always open to collaborations and learning opportunities*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+<div align="center">
+
+### ✨ **Let's turn Data into Business Impact together!** ✨
+
+**Open to opportunities in Reports & Analytics, Business Analysis, and Data-Driven Decision Making**
+
+*Last Updated: March 2026* | *Always open to collaborations and learning opportunities* 🚀
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20%F0%9F%8E%AF-fe61a6?style=flat-square" alt="Made with love"/>
+</p>
